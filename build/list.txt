@@ -4,3 +4,4 @@ darwin/386
 darwin/amd64
 windows/386
 windows/amd64
+
